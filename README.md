@@ -3,7 +3,7 @@
 I make [@techpaf](https://techpaf.net) && [@rflx](https://rflx.studio).
 <!-- ![alt text](https://raw.githubusercontent.com/tsbits/tsbits/master/techpaf.png) ![alt text](https://raw.githubusercontent.com/tsbits/tsbits/master/rflx.png) -->
 
-I'm the proud dad of [tics](https://get-tics.com/?tc=tsb-git), an easy to use / understand, ethic and green analytics platform.
+I'm the proud dad of [tics](https://get-tics.com/?tc=tsb-git){:target="_blank"}, an easy to use / understand, ethic and green analytics platform.
 
 Last project : [Asus ROG - Annamorphoz](https://annamorphoz.com/?tc=git-tsb) with [Balrog Paris](https://balrog-paris.com/?tc=git-tsb).
 
