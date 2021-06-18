@@ -11,7 +11,7 @@ I do a lot of code, 2d and 3d design, 3d printing, arduino, laser engaving / cut
 
 My favs languages / tools are HTML, CSS, SCSS, LESS, JS, Canvas, PIXI, Cidjy, threeJS, GSAP, NodeJS, MongoDB, PHP, MySQL, C, C#, Cordova, Electron.
 
-My favs soft are [SublimeText](https://www.sublimetext.com/), [VSCode](https://code.visualstudio.com/), [Hyper](https://hyper.is/), [Cinema4D](https://www.maxon.net/fr/cinema-4d), [SparkAR Studio](https://sparkar.facebook.com/ar-studio/), [Unity](http://unity.com/), [NewtonMail](https://newtonhq.com/), [Cura](https://ultimaker.com/fr/software/ultimaker-cura), [Adobe Creative Suite](https://www.adobe.com/fr/creativecloud.html), [Procreate](https://procreate.art/), [JPEGMini](https://www.jpegmini.com/).
+My favs soft are [SublimeText](https://www.sublimetext.com/), [VSCode](https://code.visualstudio.com/), [Hyper](https://hyper.is/), [Cinema4D](https://www.maxon.net/fr/cinema-4d), [SparkAR Studio](https://sparkar.facebook.com/ar-studio/), [Unity](http://unity.com/), [NewtonMail](https://newtonhq.com/), [Cura](https://ultimaker.com/fr/software/ultimaker-cura), [Adobe Creative Suite](https://www.adobe.com/fr/creativecloud.html), [Procreate](https://procreate.art/), [JPEGMini](https://www.jpegmini.com/). 
 
 My favs radio are 🐮[RadioMeuh.com](https://www.radiomeuh.com/),  🟣[FIP Groove](https://www.fip.fr/groove/webradio), 🎷[TSF Jazz](https://www.tsfjazz.com/)
 
@@ -24,9 +24,7 @@ You can find me there :
 - [rflx Instagram](https://www.instagram.com/rflx_studio/)
 - [rflx Twitter](https://twitter.com/rflxstudio)
 
-Also on Codepen under [tsbits](https://codepen.io/tsbits/).
-
-You can email me at olive@techpaf.net. 
+You can email me at olive@techpaf.net.
 
 See you. ✌😄👍
 
