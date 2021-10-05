@@ -6,9 +6,9 @@ I make [@techpaf](https://techpaf.net) && [@rflx](https://rflx.studio).
 I'm the proud dad of [tics](https://get-tics.com/?tc=tsb-git), an easy to use / understand, ethic and green analytics platform.
 
 Last project :
-[SendMeTheMoney](https://sendmethe.money/?tc=git-tsb) -> an easy & elegant way to remember and share your crypto wallets public addresses.
-[tics](https://get-tics.com/?tc=tsb-git) -> an easy to use & understand, ethic and green analytics platform.
-[Asus ROG - Annamorphoz](https://annamorphoz.com/?tc=git-tsb) -> with [Balrog Paris](https://balrog-paris.com/?tc=git-tsb).
+- [SendMeTheMoney](https://sendmethe.money/?tc=git-tsb) -> an easy & elegant way to remember and share your crypto wallets public addresses.  
+- [tics](https://get-tics.com/?tc=tsb-git) -> an easy to use & understand, ethic and green analytics platform.  
+- [Asus ROG - Annamorphoz](https://annamorphoz.com/?tc=git-tsb) -> with [Balrog Paris](https://balrog-paris.com/?tc=git-tsb).  
 
 I do a lot of code, 2d and 3d design, 3d printing, arduino, laser engaving / cutting, makery...
 
