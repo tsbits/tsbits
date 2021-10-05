@@ -7,7 +7,7 @@ Lastest client projects :
 - [Asus ROG - Annamorphoz](https://annamorphoz.com/?tc=git-tsb) -> with [Balrog Paris](https://balrog-paris.com/?tc=git-tsb). 
 - [AssessFirst - BRAIN](https://www.assessfirst.com/fr/science/brain/)
 
-Lastest personnal projects :
+Lastest personal projects :
 - [SendMeTheMoney](https://sendmethe.money/?tc=git-tsb) -> an easy & elegant way to remember and share your crypto wallets public addresses.  
 - [tics](https://get-tics.com/?tc=tsb-git) -> an easy to use & understand, ethic and green analytics platform.   
 
