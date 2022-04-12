@@ -1,15 +1,15 @@
 ### Hello there 👋
 
-I make [@techpaf](https://techpaf.net), [@rflx](https://rflx.studio) and [@tics](https://get-tics.com).
+I make [@techpaf](https://techpaf.net), [@rflx](https://rflx.studio) & [@tics](https://get-tics.com).
 <!-- ![alt text](https://raw.githubusercontent.com/tsbits/tsbits/master/techpaf.png) ![alt text](https://raw.githubusercontent.com/tsbits/tsbits/master/rflx.png) -->
 
 Lastest projects :  
 - [tics](https://get-tics.com/?tc=tsb-git) -> an easy to use & understand, ethic and green analytics platform.
+- [AssessFirst - BRAIN](https://www.assessfirst.com/fr/science/brain/)
 - [SendMeTheMoney](https://sendmethe.money/?tc=git-tsb) -> an easy & elegant way to remember and share your crypto wallets public addresses.
+- [Asus ROG - Annamorphoz](https://annamorphoz.com/?tc=git-tsb) -> with [Balrog Paris](https://balrog-paris.com/?tc=git-tsb). 
 - [My Charlotte](https://mycharlotte.fr/)
 - [IllicoVélo](https://illicovelo.fr/)
-- [Asus ROG - Annamorphoz](https://annamorphoz.com/?tc=git-tsb) -> with [Balrog Paris](https://balrog-paris.com/?tc=git-tsb). 
-- [AssessFirst - BRAIN](https://www.assessfirst.com/fr/science/brain/)
 
 I do a lot of code, 2d and 3d design, 3d printing, arduino, laser engaving / cutting, makery...
 
