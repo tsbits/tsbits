@@ -18,3 +18,5 @@ You can find me on [Codepen](https://codepen.io/tsbits/), [Instagram](https://ww
 - [rflx Twitter](https://twitter.com/rflxstudio) -->
 
 Bye. ✌😄👍
+
+<!-- ![](https://komarev.com/ghpvc/?username=tsbits&color=brightgreen) -->
