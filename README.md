@@ -9,22 +9,9 @@ My favorite languages / tools are HTML, CSS, SCSS, LESS, JS, Canvas, PIXI, Cidjy
 
 Everyday I use [SublimeText](https://www.sublimetext.com/), [VSCode](https://code.visualstudio.com/), [Hyper](https://hyper.is/), [Blender](https://blender.org), [Cinema4D](https://www.maxon.net/fr/cinema-4d), [SparkAR Studio](https://sparkar.facebook.com/ar-studio/), [Unity](http://unity.com/), [NewtonMail](https://newtonhq.com/), [Cura](https://ultimaker.com/fr/software/ultimaker-cura), [Adobe Creative Suite](https://www.adobe.com/fr/creativecloud.html), [Procreate](https://procreate.art/), [JPEGMini](https://www.jpegmini.com/). 
 
-I created and maintain some open source tools :
-- [ImageSequence](https://github.com/techpaf/ImageSequence)
-- [KonamiJS](https://github.com/tsbits/KonamiJS)
-- [MicroComps](https://github.com/tsbits/MicroComps)
-- [MorseJS](https://github.com/black-hoods/MorseJS)
-- [PhoneCrypter](https://github.com/black-hoods/PhoneCrypter)
-- [polyglotteJS](https://github.com/techpaf/polyglotteJS)
-- [QuickStarter](https://github.com/techpaf/QuickStarter)
-- [RomaJS](https://github.com/techpaf/RomaJS)
-- [SPA-Starter](https://github.com/techpaf/SPA-Starter)
+I created and maintain some open source tools like [ImageSequence](https://github.com/techpaf/ImageSequence), [KonamiJS](https://github.com/tsbits/KonamiJS), [MicroComps](https://github.com/tsbits/MicroComps), [MorseJS](https://github.com/black-hoods/MorseJS), [PhoneCrypter](https://github.com/black-hoods/PhoneCrypter), [polyglotteJS](https://github.com/techpaf/polyglotteJS), [QuickStarter](https://github.com/techpaf/QuickStarter), [RomaJS](https://github.com/techpaf/RomaJS), [SPA-Starter](https://github.com/techpaf/SPA-Starter).
 
-You can find me there :
-- [Codepen](https://codepen.io/tsbits/)
-- [Instagram](https://www.instagram.com/_tsbits/)
-- [Twitter](https://twitter.com/_tsbits)
-- [Mail](mailto://olive@techpaf.net)
+You can find me on [Codepen](https://codepen.io/tsbits/), [Instagram](https://www.instagram.com/_tsbits/), [Twitter](https://twitter.com/_tsbits), [Mail](mailto://olive@techpaf.net).
 <!-- - [techpaf Instagram](https://www.instagram.com/_techpaf/)
 - [techpaf Twitter](https://twitter.com/_techpaf)
 - [rflx Instagram](https://www.instagram.com/rflx_studio/)
