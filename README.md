@@ -20,5 +20,5 @@ You can find me on [Codepen](https://codepen.io/tsbits/), [Instagram](https://ww
 Bye. ✌😄
 
 <!-- ![](https://komarev.com/ghpvc/?username=tsbits&color=brightgreen) -->
-![](https://beat.techpaf.net/)
 
+![](https://beat.techpaf.net/)
